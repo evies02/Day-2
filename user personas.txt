@@ -1,0 +1,17 @@
+USER PERSONAS
+
+Women
+age: 40, CZ
+to buy presents regurlarly, she signs up, newsletter, 
+
+men
+age: 30, CZ
+to buy present at last minute, he won´t register
+
+women
+age: 30, CZ
+to bu presents occasionaly, she sings up, no newsletter
+
+
+USER STORY
+

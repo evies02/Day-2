@@ -1,0 +1,41 @@
+
+  p {
+  font-family: Lato, sans-serif
+  color: #555555;
+  line: 150%;
+  align: 
+
+}
+ 
+  body{
+     background: #ffffff;
+  }
+
+  h1 {
+    color: #23226c;
+    font-weight: 900;
+    font-size: 240%;
+    align-content: center;
+  }
+
+  h2 {
+    color: #23226c;
+    font-weight: 900; 
+    font-size: 180%;
+  }
+
+  strong {
+    color: black 
+  }
+
+  a:
+  {color: #6290C3;
+  }
+
+  intro {
+    background: #D2D6EF;
+  }
+
+  conclusion {
+    background: #D2D6EF;
+  }

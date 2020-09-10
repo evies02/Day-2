@@ -1,0 +1,39 @@
+Why should you care about how your code is formatted?
+to maintain general code quality
+
+How many spaces should you indent at a time?
+Indent by 2 spaces at a time.
+
+Should the code be lowercase or uppercase?
+Use only lowercase.
+
+
+What is the recommended encoding?
+Use UTF-8 (no BOM)¨
+
+How should you use comment to explain your code? How do you do it in HTML and in CSS?
+Explain code as needed, where possible.html <!-- Write your comments here --> css /* Set text color to red */
+
+How do you validate your HTML?
+Use tools such as the W3C HTML validator to test. https://validator.w3.org/nu/
+
+
+What is the purpose of the alt attribute?
+Provide alternative contents for multimedia.
+
+
+Should you separate structure (markup), presentation (styling), and behavior (scripting)? If yes, why?
+Strictly keep structure (markup), presentation (styling), and behavior (scripting) apart, and try to keep the interaction between the three to an absolute minimum.
+Separating structure from presentation from behavior is important for maintenance reasons. 
+
+Should you use double or single quotation marks around attribute values?
+Use single ('') rather than double ("") quotation marks for attribute selectors and property value
+
+
+How can you validate your CSS code?
+Use tools such as the W3C CSS validator to test.https://jigsaw.w3.org/css-validator/
+
+
+When would you use meaningful ID/class names? When would you use generic ones?
+Instead of presentational or cryptic names, always use ID and class names that reflect the purpose of the element in question, or that are otherwise generic.
+Generic names are simply a fallback for elements that have no particular or no meaning different from their siblings. They are typically needed as “helpers
